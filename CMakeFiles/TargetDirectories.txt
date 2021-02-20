@@ -1,0 +1,3 @@
+/Users/matteofusilli/Apps/opencv_example/CMakeFiles/rebuild_cache.dir
+/Users/matteofusilli/Apps/opencv_example/CMakeFiles/edit_cache.dir
+/Users/matteofusilli/Apps/opencv_example/CMakeFiles/main.dir
