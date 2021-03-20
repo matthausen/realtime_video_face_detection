@@ -5,6 +5,8 @@ This program uses the haarcascade pretrainel xml model provided by OpenCV
 
 ### Build &  run:
 
+- In `main.cpp` line 25, remember to change the path to your absolute path (e.g. /Users/myuser/path/to/haarcascade_frontalface_alt.xml)
+
 - `cmake .`
 
 - `make`
